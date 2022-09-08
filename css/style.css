@@ -21055,6 +21055,12 @@ body[data-bg-image] {
   opacity: 1;
 }
 
+.responsive {
+  width: 100%;
+  max-width: 400px;
+  height: auto;
+}
+
 /* Accessibility */
 .wizard>.steps .current-info,
 .tabcontrol>.steps .current-info,
