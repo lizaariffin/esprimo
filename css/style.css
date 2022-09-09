@@ -1729,7 +1729,7 @@ Topbar
 
 #header.header-always-fixed .header-inner,
 #header.header-always-fixed #header-wrap {
-  position: fixed !important;
+  position: absolute !important;
   top: 0 !important;
 }
 
